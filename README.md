@@ -5,4 +5,3 @@
 - HTML
 - CSS
   - Normalize.css
-- JS
