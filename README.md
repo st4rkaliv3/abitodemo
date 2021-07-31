@@ -5,3 +5,5 @@
 - HTML
 - CSS
   - Normalize.css
+- JS
+  - Swiper.js
